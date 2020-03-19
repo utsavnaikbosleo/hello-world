@@ -1,2 +1,2 @@
 # hello-world
-its simple package for testing global package
+its simple package for testing using composer.
